@@ -1,0 +1,2 @@
+API
+sendMail: aDictionary

@@ -1,0 +1,21 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DaveMason 12/30/2016 15:05",
+	"instvars" : [
+		"ws",
+		"server",
+		"course",
+		"user",
+		"message",
+		"error",
+		"waitingAtCourseList",
+		"isAdmin" ],
+	"name" : "LpServerConnection",
+	"pools" : [
+		"PjNodeGlobals" ],
+	"super" : "Object",
+	"type" : "normal" }

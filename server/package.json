@@ -1,0 +1,18 @@
+{
+  "not generated": "2016.01.06",
+  "name": "Serve1",
+  "version": "1.0.0",
+  "description": "Server for LecturePoll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Mason",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^2.2.1",
+    "sqlite3": "^3.1.1",
+    "ws": "^1.0.1"
+  },
+  "devDependencies": {}
+}

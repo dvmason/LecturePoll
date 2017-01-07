@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"appJsFileName" : "DaveMason 12/8/2016 07:55",
+		"playgroundInitialContent" : "DaveMason 12/9/2016 20:18" },
+	"instance" : {
+		"add:forUser:" : "DaveMason 12/8/2016 08:21",
+		"allConnectionsDo:" : "DaveMason 12/11/2016 00:03",
+		"host" : "DaveMason 1/2/2017 10:18",
+		"loggedInAs:connectionsDo:" : "DaveMason 1/3/2017 08:14",
+		"loggedInConnectionsDo:" : "DaveMason 2/13/2016 13:37",
+		"loggedInto:connectionsDo:" : "DaveMason 2/14/2016 08:39",
+		"loggedInto:onQuestion:connectionsDo:" : "DaveMason 2/25/2016 16:45",
+		"mailTestMessage" : "DaveMason 12/30/2016 15:03",
+		"makeCookieFor:" : "DaveMason 12/8/2016 08:21",
+		"newDB" : "DaveMason 2/11/2016 09:15",
+		"openQuestionsFor:andCallback:" : "DaveMason 1/3/2017 09:46",
+		"port" : "DaveMason 1/1/2017 23:53",
+		"registrationsFor:andCallback:" : "DaveMason 12/8/2016 08:21",
+		"start" : "DaveMason 12/30/2016 15:03",
+		"startMailer" : "DaveMason 12/30/2016 21:39",
+		"startWebsocket" : "DaveMason 12/11/2016 00:03",
+		"verify:callback:" : "DaveMason 12/8/2016 08:22",
+		"verify:with:callback:" : "DaveMason 12/9/2016 13:30" } }

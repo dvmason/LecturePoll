@@ -1,0 +1,15 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DaveMason 1/17/2016 22:40",
+	"instvars" : [
+		"lastQuestion",
+		"lastCourse" ],
+	"name" : "LpServerInitApp",
+	"pools" : [
+		"NsReadlinePolyfill" ],
+	"super" : "LpServerAppCommon",
+	"type" : "normal" }

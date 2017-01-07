@@ -1,0 +1,1 @@
+I have common information for the LpServer and LpClient

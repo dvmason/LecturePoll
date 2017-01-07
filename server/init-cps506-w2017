@@ -1,0 +1,15 @@
+course CPS506-W2017 http://cps506.sarg.ryerson.ca Comparative Programming Languages - Winter 2017
+person dmason-sb-student@cs.ryerson.ca A Named Student
+registration CPS506-W2017 dmason@ryerson.ca ADMIN
+registration CPS506-W2017 dmason-sb-student@cs.ryerson.ca
+question CPS506-W2017 01 mcopen What programming languages do you know well?
+answer . Java
+answer . C
+answer . C++
+answer . Smalltalk
+answer . Ruby
+answer . Python
+answer . Haskell
+answer . Elixir/Erlang
+answer . Rust
+answer . Javascript

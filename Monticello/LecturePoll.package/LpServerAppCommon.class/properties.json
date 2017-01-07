@@ -1,0 +1,24 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"QuestionOpen",
+		"QuestionPast" ],
+	"commentStamp" : "DaveMason 2/11/2016 08:49",
+	"instvars" : [
+		"file",
+		"db",
+		"courses",
+		"people",
+		"cookies",
+		"registrations",
+		"questions",
+		"answers",
+		"settings" ],
+	"name" : "LpServerAppCommon",
+	"pools" : [
+		"NsFilesystemPolyfill",
+		"NsSQLite3Polyfill" ],
+	"super" : "PjNodeApplication",
+	"type" : "normal" }

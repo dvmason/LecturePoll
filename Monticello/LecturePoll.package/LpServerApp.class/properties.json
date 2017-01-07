@@ -1,0 +1,16 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DaveMason 12/20/2015 12:06",
+	"instvars" : [
+		"smtpTransport",
+		"wsServer" ],
+	"name" : "LpServerApp",
+	"pools" : [
+		"LpNodeMailerPolyfill",
+		"LpSharedInfo" ],
+	"super" : "LpServerAppCommon",
+	"type" : "normal" }

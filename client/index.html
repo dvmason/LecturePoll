@@ -1,0 +1,58 @@
+<!DOCTYPE html> <!-- not generated -->
+<html manifest="Manifest">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Lecture Poll</title>
+<link href="index.css" rel="stylesheet" type="text/css" />
+</head>
+<body id="splash">
+<div id="container">
+<div class="splash">
+  <h1>Welcome to Lecture Poll</h1>
+  <p>This app aims to helps you improve your learning by engaging in interactive information integration.</p>
+</div>
+<a id="up" class="hidden" href="#">?</a>
+<div class="login">
+  <h2>Login</h2>
+  <div class="button"><input type="text" id="emailField" size="36" placeholder="Enter email address"></input></div>
+  <div class="button"><input type="text" id="cookie" size="36" placeholder="Enter GUID or leave empty to get new GUID"></input></div>
+  <div class="button"><a id="submitLogin" href="#">Submit</a></div>
+</div>
+<div class="courses">
+<h2>Choose a course<span id="nameField"></span>:</h2>
+<div id="courseList">
+<div class="temp">c1</div>
+<div class="temp">c2</div>
+</div>
+</div>
+<h2 id="courseField" class="choose questions mcopen mc radio showpoll">
+  some course
+</h2>
+<div class="questions">
+<div id="questionList">
+<div class="temp">q1</div>
+<div class="temp">q2</div>
+</div>
+</div>
+<p id="question" class="center mc mcopen radio radioopen showpoll">This is a really, really, really, long question?</p>
+<div class="mc mcopen radio radioopen">
+<ul id="mclist">
+    <li class="temp"><input type="radio">all mc</input></li>
+    <li class="temp"><input type="radio">all mc</input></li>
+    <li id="newOption" class="mcopen radioopen"><input type="text" placeholder="Enter other option"></input></li>
+  </ul>
+</div>
+<div class="showpoll">
+  <div class="temp histogram"><div class="hslider" style="width: 45%">&nbsp;</div><div class="htext">Twitter</div><div class="hnum">45</div></div>
+  <div class="temp histogram"><div class="hslider" style="width: 10%">&nbsp;</div><div class="htext">Facebook</div><div class="hnum">10</div></div>
+  <div class="temp histogram"><div class="hslider" style="width: 100%">&nbsp;</div><div class="htext">Unix</div><div class="hnum">100</div></div>
+</div>
+<div id="errorArea">
+</div>
+<div id="messageArea">
+</div>
+</div>
+<script type="text/javascript" src="index.js"></script>
+</body>
+</html>

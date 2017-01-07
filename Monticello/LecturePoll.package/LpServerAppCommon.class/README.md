@@ -1,0 +1,1 @@
+I contain all the common code for the server apps - initialization and server, particularly the DB table definitions.

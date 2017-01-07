@@ -1,0 +1,14 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NodeMailer" ],
+	"commentStamp" : "DaveMason 12/30/2016 14:44",
+	"instvars" : [
+		 ],
+	"name" : "LpNodeMailerPolyfill",
+	"pools" : [
+		 ],
+	"super" : "PjJavascriptGlobals",
+	"type" : "normal" }

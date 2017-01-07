@@ -1,0 +1,16 @@
+{
+	"category" : "LecturePoll-Common",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ServerHost",
+		"ServerPort",
+		"ServerProtocol" ],
+	"commentStamp" : "DaveMason 12/30/2016 16:32",
+	"instvars" : [
+		 ],
+	"name" : "LpSharedInfo",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }

@@ -1,0 +1,6 @@
+setting defaultDomain ryerson.ca
+setting emailUser dmason@ryerson.ca
+setting emailService Gmail
+setting emailPass xxxxxxxxxxxxx
+person dmason@ryerson.ca Dave Mason
+cookie dmason@ryerson.ca xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx

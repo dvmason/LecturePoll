@@ -1,0 +1,14 @@
+{
+	"category" : "LecturePoll-Client",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LpClientAppTest",
+	"pools" : [
+		 ],
+	"super" : "PjWebAppTestCase",
+	"type" : "normal" }

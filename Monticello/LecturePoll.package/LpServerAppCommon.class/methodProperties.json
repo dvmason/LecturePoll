@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"initialize" : "DaveMason 1/3/2017 09:51" },
+	"instance" : {
+		"answersForCourse:name:email:answer:" : "DaveMason 12/8/2016 08:19",
+		"closeDB" : "DaveMason 2/11/2016 08:54",
+		"createDB" : "DaveMason 12/28/2016 19:22",
+		"initialize" : "DaveMason 2/11/2016 08:55",
+		"newDB" : "DaveMason 2/11/2016 09:16",
+		"openSQL" : "DaveMason 12/8/2016 00:36",
+		"start" : "DaveMason 2/11/2016 08:58" } }

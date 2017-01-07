@@ -1,0 +1,34 @@
+{
+	"category" : "LecturePoll-Client",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DaveMason 12/20/2015 12:05",
+	"instvars" : [
+		"ws",
+		"course",
+		"email",
+		"guid",
+		"serverCourse",
+		"body",
+		"up",
+		"emailField",
+		"cookie",
+		"name",
+		"courseList",
+		"courseField",
+		"questionList",
+		"question",
+		"mclist",
+		"submitLogin",
+		"userName",
+		"nameField",
+		"newOption",
+		"errorArea",
+		"messageArea" ],
+	"name" : "LpClientApp",
+	"pools" : [
+		"LpSharedInfo" ],
+	"super" : "PjBrowserApplication",
+	"type" : "normal" }

@@ -1,0 +1,99 @@
+a#up.hidden,.splash,.login,.mc,.mcopen,.radio,.questions,.courses,.showpoll {
+    display: none;
+}
+body#splash .splash,
+body#login .login,
+body#mc .mc,
+body#mcopen .mcopen,
+body#radio .radio,
+body#questions .questions,
+body#courses .courses,
+body#showpoll .showpoll {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+#container {
+    position: relative;
+    margin: 0 auto;
+    width: 93%;
+    max-width: 500px;
+}
+#errorArea {
+    color: red;
+}
+li {
+    display: list-item;
+    list-style: inside;
+}
+h1 {
+    margin: 0 auto;
+    margin-bottom: .2em;
+    font-size: 120%;
+    text-align: center;
+    color: #202090;
+}
+h2 {
+    margin: 0 auto;
+    margin-bottom: .2em;
+    font-size: 100%;
+    text-align: center;
+    color: #202090;
+}
+a#up{
+    width: 1em;
+    height: 1em;
+    color: #202090;
+    background-color: transparent;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-radius: .2em 0 .2em .2em;
+}
+.button {
+    text-align: center;
+    margin-bottom: .3em;
+}
+a {
+    background-color: #4040C0;
+    color: #FFF;
+    padding: .2em;
+    text-decoration: none;
+    border-radius: .2em;
+}
+p {
+    margin: 0;
+    margin-bottom: .2em;
+    border: thin solid #202090;
+    border-radius: .3em;
+    padding: .3em;
+}
+.center {
+    text-align: center;
+}
+.histogram {
+    position: relative;
+    border: thin solid #202090;
+    width: 100%;
+    height: 1em;
+    margin-bottom: .2em;
+    border-radius: .3em;
+}
+.hslider {
+    background-color: #202090;
+    position: absolute;
+    left: 0;
+    border-radius: .3em;
+}
+.htext {
+    color: #9090C8;
+    position: absolute;
+    left: 10px;
+}
+.hnum {
+    color: #9090C8;
+    position: absolute;
+    right: 5px;
+}

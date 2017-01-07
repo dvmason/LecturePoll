@@ -1,0 +1,3 @@
+testing
+isLoggedIn
+	^ user notNil

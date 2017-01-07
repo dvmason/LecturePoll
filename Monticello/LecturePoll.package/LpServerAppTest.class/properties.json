@@ -1,0 +1,14 @@
+{
+	"category" : "LecturePoll-Server",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LpServerAppTest",
+	"pools" : [
+		 ],
+	"super" : "PjServerAppTestCase",
+	"type" : "normal" }

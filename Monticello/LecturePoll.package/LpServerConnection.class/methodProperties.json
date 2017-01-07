@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkLoggedIn" : "DaveMason 2/23/2016 12:43",
+		"course" : "DaveMason 1/3/2017 08:10",
+		"course:" : "DaveMason 1/3/2017 08:10",
+		"dispatchMessage:" : "DaveMason 1/3/2017 08:12",
+		"doChat:" : "DaveMason 2/23/2016 12:44",
+		"doCourse:" : "DaveMason 1/3/2017 08:10",
+		"doCourses:" : "DaveMason 1/3/2017 08:12",
+		"doLogin:" : "DaveMason 12/9/2016 13:26",
+		"doQuestions:" : "DaveMason 1/3/2017 08:20",
+		"initialize" : "DaveMason 1/3/2017 08:12",
+		"isAdmin" : "DaveMason 1/3/2017 08:07",
+		"isAdmin:" : "DaveMason 1/3/2017 08:07",
+		"isLoggedIn" : "DaveMason 2/16/2016 21:11",
+		"isLoggedInto:" : "DaveMason 1/3/2017 08:10",
+		"makeCookieFor:" : "DaveMason 1/1/2017 21:47",
+		"prompt" : "DaveMason 12/9/2016 13:26",
+		"send:with:" : "DaveMason 1/1/2017 10:28",
+		"user" : "DaveMason 2/19/2016 11:32",
+		"ws:server:" : "DaveMason 1/1/2017 21:50" } }
