@@ -6,7 +6,7 @@ doCourse: aCourse
 			courses do: [ : each |
 				(each at: #course) = aCourse ifTrue: [
 					self isAdmin: (each at: #isAdmin).
-					self course: (each at: #name).
+					self course: aCourse.
 					match := each ]]].
 		self send: #course with: match
 	]

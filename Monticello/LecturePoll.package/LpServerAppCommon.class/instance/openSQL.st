@@ -12,6 +12,6 @@ openSQL
 	people := NsSQLTable db: db table: 'People' keys: #(email).
 	cookies := NsSQLTable db: db table: 'Cookies' keys: #(email cookie).
 	registrations := NsSQLTable db: db table: 'Registrations' keys: #(course email).
-	questions := NsSQLTable db: db table: 'Questions' keys: #(course name).
+	questions := NsSQLTable db: db table: 'Questions' keys: #(course name status).
 	answers := NsSQLTable db: db table: 'Answers' keys: #(course name email answer).
 	exists ifFalse: [ self createDB ]

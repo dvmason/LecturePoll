@@ -1,0 +1,14 @@
+{
+	"category" : "LecturePoll-Authenticate",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"crypto" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LpMD5",
+	"pools" : [
+		 ],
+	"super" : "PjJavascriptGlobals",
+	"type" : "normal" }

@@ -1,6 +1,6 @@
 database accessing
 openQuestionsFor: course andCallback: aBlock
-	questions select: #(course isAdmin) with: {  } callback: [ : err : rows |
+	questions select: #(name description status type) with: {#course->course. #status->QuestionOpen  } callback: [ : err : rows |
 		err ifNotNil: [
 			console log: 'error in openQuesttionsFor:andCallback:'.
 			console log: err.

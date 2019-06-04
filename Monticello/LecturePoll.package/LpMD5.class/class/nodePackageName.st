@@ -1,0 +1,4 @@
+polyfill
+nodePackageName
+	<pharoJsSkip>
+	^ 'crypto'
