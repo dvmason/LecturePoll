@@ -1,18 +1,18 @@
 # LecturePoll
 Polling for use in lectures
 
-####This is work in progress
+#### This is work in progress
 
 This is a client/server app, with the server running on NodeJS in the
 `server` directory.
 
-##Installation
+## Installation
 You will need NodeJS, Pharo, and PharoJS.
 
 Use npm to load the 3 Javascript packages needed in the server
 directory.
 
-##Running
+## Running
 In a Pharo Playground do:
     LpServerApp playground .
     LpClientApp playground .
